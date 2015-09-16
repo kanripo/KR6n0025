@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 顯識論
+#+DATE: 2015-08-30 20:55:49.976750
+#+PROPERTY: JUAN 0
