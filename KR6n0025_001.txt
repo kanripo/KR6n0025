@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:49.771996
+#+DATE: 2015-08-30 20:55:51.044905
 #+TITLE: 顯識論
 #+PROPERTY: CBETA_ID T31n1618
 #+PROPERTY: ID KR6n0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1618
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0025_T_001-0878c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1618¶
-
- 《顯識論》一卷(從無相論出)¶
+No. 1618¶
+《顯識論》一卷(從無相論出)¶
 ¶
 真諦三藏譯¶
 
@@ -152,8 +151,7 @@ No.1618¶
 <pb:KR6n0025_T_001-0880a>¶
 苦。觀受通達集諦者。眾生一切貪愛緣受故¶
 起。若無受貪不生故。觀受通達集諦。若觀心¶
-通達滅諦者。一切眾生安立我見於心中。是¶
-故眾生執我見則不信有滅。只由陀那識執¶
+通達滅諦者。一切眾生安立我見於心中。是故眾生執我見則不信有滅。只由陀那識執¶
 梨耶是一是常故。我體非滅。觀心非我故信¶
 有滅。以捨我見。觀人法二無我故。觀心通達¶
 滅諦。觀法通達道諦者。法有二。一淨品二¶
